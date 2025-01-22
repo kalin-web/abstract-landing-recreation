@@ -368,6 +368,20 @@ body {
         height: auto;
         padding: 0;
     }
+    .footer__item-container h4 {
+        margin-bottom: 8px;
+    }
+    .footer__item-container img {
+        padding: 5px 0;
+        margin: auto;
+    }
+    .footer__item-container:last-child {
+        display: inline-block;
+        width: 100%;
+        margin: 25px auto;
+        padding: 0;
+        text-align: center;
+    }
 }
 
 /* FOOTER END */
